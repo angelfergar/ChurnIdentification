@@ -1,3 +1,5 @@
 title: Test
+#logo: imagen-png
+description: prueba
 show_downloads: true
 theme: jekyll-theme-minimal
